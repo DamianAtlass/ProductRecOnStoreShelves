@@ -19,7 +19,7 @@ Both project members contributed equally. The project repository can be found at
 ## Installation
 Ensure you have the required dependencies installed before running the notebook:
 ```bash
-pip install numpy opencv-python matplotlib
+pip install -r requirements.txt
 ```
 
 ## Usage
@@ -36,10 +36,3 @@ pip install numpy opencv-python matplotlib
 
 ## Example Output
 The project processes store shelf images and marks detected products using bounding boxes. Example visualizations are included in the notebook.
-
-## Acknowledgments
-- The OpenCV and NumPy communities for providing robust image processing tools.
-- University/Instructor (if applicable) for guidance and project framework.
-
-## License
-This project is licensed under the MIT License.
