@@ -21,6 +21,7 @@ numpy==2.2.0
 opencv-python==4.10.0.84
 packaging==24.2
 parso==0.8.4
+pillow==11.1.0
 platformdirs==4.3.6
 prompt_toolkit==3.0.48
 psutil==6.1.0
